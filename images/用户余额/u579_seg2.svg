@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="872px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="843 1056  872 8" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1504 266  L 1710 266  L 1710 1060  L 848 1060  L 848 1075  " stroke-width="2" stroke-dasharray="6,2" stroke="#008080" fill="none" />
-  <path d="M 852.292893218813 1069.89289321881  L 848 1074.18578643763  L 843.707106781187 1069.89289321881  L 842.292893218813 1071.30710678119  L 847.292893218813 1076.30710678119  L 848 1077.01421356237  L 848.707106781187 1076.30710678119  L 853.707106781187 1071.30710678119  L 852.292893218813 1069.89289321881  Z " fill-rule="nonzero" fill="#008080" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="22px" preserveAspectRatio="xMidYMin meet" viewBox="1863 85  8 22" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1268 256  L 1268 90  L 1867 90  L 1867 106  " stroke-width="2" stroke-dasharray="6,2" stroke="#008080" fill="none" />
+  <path d="M 1871.29289321881 100.892893218813  L 1867 105.185786437627  L 1862.70710678119 100.892893218813  L 1861.29289321881 102.307106781187  L 1866.29289321881 107.307106781187  L 1867 108.014213562373  L 1867.70710678119 107.307106781187  L 1872.70710678119 102.307106781187  L 1871.29289321881 100.892893218813  Z " fill-rule="nonzero" fill="#008080" stroke="none" />
 </svg>
